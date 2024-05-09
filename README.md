@@ -1,0 +1,2 @@
+# GoogleSearchTestAgain
+GitHubがGoogle検索に引っかかるようにするテスト再び。
